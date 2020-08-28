@@ -1,5 +1,5 @@
 /** TODO when everything is done, this test can test your employee endpoints. It will probably not compile due to naming. Fix as needed
- * package no.acntech.project101.web.employee.resources;
+ package no.acntech.project101.web.employee.resources;
 
 import java.time.LocalDate;
 import java.util.Arrays;
